@@ -28,7 +28,7 @@ body {
     border: 1px solid;
     background-color: $calendarDateBG;
     cursor: pointer;
-    transition: all 1s;
+    transition: all 0.5s;
   }
 
   &__day:hover {
